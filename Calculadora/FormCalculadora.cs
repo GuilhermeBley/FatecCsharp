@@ -57,7 +57,7 @@ namespace Calculadora
             }
             else
                 MessageBox.Show("Números inválidos");
-
+     
         }
 
         private void button3Div_Click(object sender, EventArgs e)
@@ -69,7 +69,7 @@ namespace Calculadora
                 {
                     MessageBox.Show("Não é possível dividir um numero por zero");
                 }
-
+                
                 else
                 {
                     double resultado;
@@ -93,6 +93,5 @@ namespace Calculadora
             else
                 MessageBox.Show("Números inválidos");
         }
-
     }
 }

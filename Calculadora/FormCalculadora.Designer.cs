@@ -200,3 +200,4 @@
         private System.Windows.Forms.TextBox txtNumero1;
     }
 }
+
